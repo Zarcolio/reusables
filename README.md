@@ -5,9 +5,8 @@ Predominantly contains functions that can be reused.
 Fetches the latest browser user agent for a specific platform and browser.
 For example:
 
-`sLatestBrowserUserAgentContent = getLatestBrowserUserAgent("linux", "firefox")`
-
-`print (sLatestBrowserUserAgentContent)`
+`sLatestBrowserUserAgentContent = getLatestBrowserUserAgent("linux", "firefox")
+print (sLatestBrowserUserAgentContent)`
 
 Returns:
 
